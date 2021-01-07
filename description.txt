@@ -1,0 +1,13 @@
+Welcome to Pykrete mod everyone!
+
+Director: GASHMILTS
+Devs: dukehootfish, paliy
+Sprite artist: wempoT
+
+V.0.1: Adds a new material called Pykrete, which is crafted by iron bars, wood, and ice blocks. the material can be used to craft weapons, tools, and armor.
+V.0.1.1: Added mod icon
+V.0.1.2: Adjusted the sprite of the pykrete hat, balanced the stats of the pykrete armor and added descriptions to them
+V.0.1.3: Added the pykrete shield (an item suggested by Echo), and a new mage weapon out made out of pykrete, the pykrete wand.
+
+
+Special thanks to the amazing people of the Aseprite and TModLoader discord servers, for helping us and providing us with tutorials, important files, and advice for our project.
